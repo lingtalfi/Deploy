@@ -74,15 +74,15 @@ To give you a better idea of how deploy looks like, here are some gif examples:
 
 
 The **deploy i** command (interactive mode):
-![Deploy I](http://lingtalfi.com/img/universe/Deploy/deploy-i.gif)
+[Deploy I](http://lingtalfi.com/img/universe/Deploy/deploy-i.gif)
 
 
 The **deploy push** command:
-![Deploy push](http://lingtalfi.com/img/universe/Deploy/deploy-push.gif)
+[Deploy push](http://lingtalfi.com/img/universe/Deploy/deploy-push.gif)
 
 
 The **deploy push-db** command:
-![Deploy push-db](http://lingtalfi.com/img/universe/Deploy/deploy-push-db.gif)
+[Deploy push-db](http://lingtalfi.com/img/universe/Deploy/deploy-push-db.gif)
 
 
 
