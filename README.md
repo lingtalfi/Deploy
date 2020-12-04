@@ -377,6 +377,10 @@ Mysql related commands were tested successfully on:
 History Log
 =============
 
+- 1.1.3 -- 2020-12-04
+
+    - Add lpi-deps.byml file
+
 - 1.1.2 -- 2019-07-18
 
     - update docTools documentation, add links to source code for classes and methods

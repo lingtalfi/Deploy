@@ -1,0 +1,27 @@
+1.0.0: 
+    - Ling:BabyYaml:1.7.3
+    - Ling:Bat:1.288
+    - Ling:CliTools:1.10.4
+    - Ling:DirScanner:1.13.0
+    - Ling:EasyConsoleMenu:1.0.1
+
+1.1.0: 
+    - Ling:BabyYaml:1.7.3
+    - Ling:Bat:1.288
+    - Ling:CliTools:1.10.4
+    - Ling:DirScanner:1.13.0
+    - Ling:EasyConsoleMenu:1.0.1
+
+1.1.1: 
+    - Ling:BabyYaml:1.7.3
+    - Ling:Bat:1.288
+    - Ling:CliTools:1.10.4
+    - Ling:DirScanner:1.13.0
+    - Ling:EasyConsoleMenu:1.0.1
+
+1.1.2: 
+    - Ling:BabyYaml:1.7.3
+    - Ling:Bat:1.288
+    - Ling:CliTools:1.10.4
+    - Ling:DirScanner:1.13.0
+    - Ling:EasyConsoleMenu:1.0.1
